@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.card-container{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.card{
+	height:70vh;
+	width:40vw;
+	background-color:lightgray;
+	padding:50px;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 8px 15px;
+	
+}
+p{
+	font-size:20px;
+}
+button{
+	padding:10px;
+	border:none;
+	background-color:tomato;
+	border-radius:10px;
+}
